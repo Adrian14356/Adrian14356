@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Adrian14356
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Pyhton
 - 📫 How to reach me strzelczykadrian151@gmail.com
 
 <!---
